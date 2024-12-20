@@ -1,3 +1,3 @@
 # _Client_Server_cocktail
 Итоговая лабораторная Константина Зубовича по базам данных
-[Фото](часть работы Фул Стека в проекте коктейли (1).mp4!)
+[Скачать видео]([Obzor.mp4!](https://github.com/Fresh-timeey/_Client_Server_cocktail/blob/main/Obzor.mp4))
